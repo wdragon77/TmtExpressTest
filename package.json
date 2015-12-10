@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "",
-  "main": "expressServer.js",
+  "main": "server.js",
   "dependencies": {
     "child_process2": "^2.0.1",
     "cli": "^0.10.0",
